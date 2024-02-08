@@ -1,4 +1,13 @@
-<h1>Pytuber</h1>
-<p>To Download Youtube Videos And Shorts</p>
-<h2>Made By Arrow-Dev</h2>
-<img src="https://i.ibb.co/bH7Yzn2/arrow.png" alt="arrow" border="0">
+# PyTuber
+> To Download Youtube Videos Using Python ( Gui )
+
+## Getting Start
+   - Download `PyTuber`
+   - Extract The Downloaded Rar
+   - cd `PyTuber`
+   - `pip install requirements.txt`
+   - python PyTuber.py
+
+<img src="screenshot.png">
+# Made By Arrow-Dev (Ali-Hany)
+<img src="arrow.png"> 
